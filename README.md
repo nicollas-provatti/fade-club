@@ -20,6 +20,6 @@ Site de apresentação de uma barbearia, mostrando serviços, galeria de cortes,
 
 ## Deploy
 
-Acesse o site: Link para o deploy
+Acesse o site [aqui](https://fade-club.onrender.com/)
 
 ---
