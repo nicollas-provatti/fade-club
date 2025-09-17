@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* body {
+  background-color: #3E2C23;
+  background-color: #EDE0D4;
+  background-color: #C9A227;
+  background-color: #1A1A1A;
+  background-color: #602B23;
+} */
+
+
+.swiper-button-prev,
+.swiper-button-next  {
+  color: #C9A227 !important;
+
+}
